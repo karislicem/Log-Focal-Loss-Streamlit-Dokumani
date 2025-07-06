@@ -142,3 +142,5 @@ Calibrating deep neural networks using focal loss. *NeurIPS*, 33, 15288–15299.
 **3.** Terven, J., & Cordova-Esparza, D. M. (2021).  
 A comprehensive review of loss functions and metrics for deep learning classification. *Pattern Recognition*, 125, 108198. https://doi.org/10.1016/j.patcog.2021.108198
     """)
+
+st.sidebar.markdown("👤 Cem Karışlı  \n[GitHub](https://github.com/karislicem) | [LinkedIn](https://www.linkedin.com/in/karislicem/)")
